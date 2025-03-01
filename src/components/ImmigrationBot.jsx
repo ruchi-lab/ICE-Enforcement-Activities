@@ -214,7 +214,7 @@ const ImmigrationBot = ({ mapData }) => {
           </svg>
         </div>
         <h3>Immigration Law Assistant</h3>
-        <a href="tel:8133430063" className="phone-link">📞 (813) 343-0063</a>
+        <a href="tel:xxxxxxxxxx" className="phone-link">📞 xxxxxxxxxx </a>
       </div>
       <div className="chat-messages">
         {messages.map((message, index) => (
